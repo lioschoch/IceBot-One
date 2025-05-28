@@ -50,7 +50,7 @@ eishockeybot/
 1. Repository klonen:
 
 ```bash
-git clone https://github.com/dein-benutzername/eishockeybot.git
+git clone https://github.com/lioschoch/IceBot-One.git
 cd eishockeybot
 ```
 
