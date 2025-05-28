@@ -84,20 +84,13 @@ python scripts/vision.py
 
 ## 🧪 TODO
 
-- [ ] Kamera- und Puckerkennung testen
-- [ ] Motorsteuerung integrieren
-- [ ] Spielstrategie und Logik entwickeln
-- [ ] KI-Modell trainieren und deployen
+- [ ] Python & OpenCV lernen und testen
+- [ ] Webcam kaufen (Logitech C270)
 
 ---
 
-## 📃 Lizenz
-
-MIT License – frei nutzbar für Bildung, Forschung und Spaßprojekte 🎓🚀
-
----
 
 ## ✉️ Kontakt
 
 Fragen, Ideen oder Beiträge?  
-**Dein Name** – [GitHub-Profil](https://github.com/dein-benutzername)
+**Lionel Schoch** – [GitHub-Profil](https://github.com/lioschoch)
