@@ -6,7 +6,7 @@ In dieser Datei wird sämtliches Material dokumentiert, das für den Bau und die
 
 | Material            | Funktion                               | Menge | Preis (CHF, geschätzt) | Bezugsquelle     |
 |---------------------|----------------------------------------|-------|--------------------------|------------------|
-| Logitech C270       | Kamera zur Spielfeldüberwachung        | 1     | 30.–                     | z. B. Digitec, Amazon |
+| Logitech C270       | Kamera zur Spielfeldüberwachung        | 1     | 16.–                     | Galagsus |
 
 <!--
 Weitere Materialien hier eintragen…
@@ -24,4 +24,4 @@ Beispiel:
 
 ---
 
-> Letzte Aktualisierung: `{{DATUM_EINFÜGEN}}`
+> Letzte Aktualisierung: `28 Mai 2025`
