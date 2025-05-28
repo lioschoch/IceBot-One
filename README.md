@@ -74,13 +74,6 @@ python scripts/vision.py
 
 ---
 
-## 📸 Beispiel
-
-| Kameraansicht | Erkennung |
-|---------------|-----------|
-| ![camera](media/samples/camera_view.jpg) | ![detect](media/samples/vision_detected.jpg) |
-
----
 
 ## 🧪 TODO
 
